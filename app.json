@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-uber-clone",
-    "slug": "expo-uber-clone",
+    "name": "ryde",
+    "slug": "ryde",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
